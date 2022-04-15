@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Logisticsbase-Sfia</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/resources/VanData.txt</name>
+			<type>1</type>
+			<location>C:/Users/ska77/eclipse-workspace/Logisticsbase-Sfia/src/main/resources/VanData.txt</location>
+		</link>
+		<link>
+			<name>src/main/resources/log4j2.properties</name>
+			<type>1</type>
+			<location>C:/Users/ska77/eclipse-workspace/Logisticsbase-Sfia/src/main/resources/log4j2.properties</location>
+		</link>
+	</linkedResources>
+</projectDescription>
