@@ -1,6 +1,6 @@
 The project simulates the operation of a logistics base. The entity truck is sent by a layer of services to the
 logistics base, drives into a free terminal, leaves the terminal.
-At the end of the simulation, you receive a report on the work done by the database.
+At the end of the simulation, you receive a report on the work done by the base.
 
 The terminal can:
 - Unload or load a truck with goods depending on the truck
